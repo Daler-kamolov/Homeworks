@@ -8,4 +8,6 @@
 #### 1. Menu (only HTML/CSS)
 ### lesson 6
 #### 1. Landing_Page_NobodysFool(with CSS Grid)!
+### lesson 7
+#### 1. Рекурсия в js.
 ![Мой лого](lesson_3/Дз___Камолов_Далер_/img/bg.png)
